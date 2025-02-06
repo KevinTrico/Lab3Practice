@@ -6,11 +6,11 @@ int main()
 {
 
 
- int numero;
+    int numero;
 
- numero = 5;
+    numero = 5;
 
-
+    cout << numero;
 
     return 0;
 }
