@@ -8,7 +8,7 @@ int main()
 
  int numero;
 
-
+ numero = 5;
 
 
 
